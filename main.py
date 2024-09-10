@@ -1,0 +1,5 @@
+print("There are 9 planets in our Solar system.")
+print("Our Earth is the only planet with living organisms")
+print("There are seven continents in the world")
+print("Flowers are like the human beings.")
+print("If you have hope you can do and achieve anything")
